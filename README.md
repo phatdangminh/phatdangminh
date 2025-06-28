@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phatdang1994)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PhatDangMinh1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/phatdang1994)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phatdangdevoodoo)
 
 </div>
 
@@ -15,9 +16,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engineer** with several years of experience crafting robust ERP solutions that transform businesses.
+I'm a passionate **Odoo Specialist**, **Python Developer**, and **Software Engineer** with several years of experience crafting robust ERP solutions that transform businesses.
 
 - 🔭 Currently working on **advanced Odoo customizations**
+- 🎥 Creating **DevOdoo YouTube content** for the community
 - 🌱 Learning **AI/ML integration with business systems**
 - 👯 Looking to collaborate on **open-source ERP projects**
 - 💬 Ask me about **Odoo, Python, or system optimization**
@@ -59,7 +61,7 @@ I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engin
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔧 **ERP Development**
 - Custom Odoo module development
@@ -68,13 +70,22 @@ I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engin
 - Performance tuning & scalability
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 💻 **Software Engineering**
 - Clean, maintainable code architecture
 - Third-party API integrations
 - Database design & optimization
 - DevOps & deployment strategies
+
+</td>
+<td width="33%">
+
+### 🎥 **Content Creation (Draft)**
+- **DevOdoo YouTube Channel**
+- Odoo tutorials & best practices
+- Code reviews & walkthroughs
+- Community knowledge sharing
 
 </td>
 </tr>
@@ -114,6 +125,7 @@ I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engin
 ## 🎯 Current Focus
 
 - 🚀 **Odoo 17+** advanced customizations
+- 🎥 **DevOdoo YouTube** content creation and community building
 - 🤖 **AI/ML** integration with ERP systems
 - 🌐 **Cloud-native** solutions and microservices
 - 📱 **Mobile-first** business applications
@@ -124,13 +136,16 @@ I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engin
 class Developer:
     def __init__(self):
         self.name = "Phát Đặng"
-        self.role = "Odoo Specialist - Software Engineer"
+        self.role = "Odoo Specialist & Python Engineer"
+        self.youtube_channel = "DevOdoo"
         self.language_spoken = ["Vietnamese", "English"]
         self.code = ["Python", "JavaScript", "SQL", "XML"]
         self.specialties = ["Odoo ERP", "Business Automation", "System Integration"]
+        self.content_creator = True
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
+        print("Don't forget to check out my DevOdoo YouTube channel! 🎥")
 
 me = Developer()
 me.say_hi()
@@ -142,7 +157,8 @@ me.say_hi()
 
 ### 📬 **Ready to collaborate?** Let's turn your ideas into reality!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phatminh.0794@outlook.com)
+[![YouTube](https://img.shields.io/badge/DevOdoo_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@phatdangdevoodoo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://phatdangminh.info)
 
 ---
@@ -156,5 +172,5 @@ me.say_hi()
 ---
 
 <div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨</i>
+  <i>✨ "Every problem has a solution; the key is to approach it with an open mind and a broad perspective." – Phát Đặng ✨</i>
 </div>
