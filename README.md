@@ -124,7 +124,7 @@ I'm a passionate **Python Developer**, **Odoo Specialist**, and **Software Engin
 class Developer:
     def __init__(self):
         self.name = "Phát Đặng"
-        self.role = "Odoo Developer & Python Engineer"
+        self.role = "Odoo Specialist - Software Engineer"
         self.language_spoken = ["Vietnamese", "English"]
         self.code = ["Python", "JavaScript", "SQL", "XML"]
         self.specialties = ["Odoo ERP", "Business Automation", "System Integration"]
